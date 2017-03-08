@@ -1,3 +1,3 @@
 # This is a test repo
 ## A new branch
-### Not a newer branch
+### A newer branch is better
